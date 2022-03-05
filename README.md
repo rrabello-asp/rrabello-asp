@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @rrabello-asp
-- 👀 I’m interested in Next.js
-- 🌱 I’m currently learning advanced CSS.
-- 💞️ I’m looking to collaborate on any project.
-- 📫 How to reach me. Slack!
+![Cute Cat Programming](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
 <!---
 rrabello-asp/rrabello-asp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
